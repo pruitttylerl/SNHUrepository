@@ -63,4 +63,19 @@ Some of the tools or resources I used that I might find helpful in the future wo
     
     Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. What from this particular assignment might you want to showcase to a future employer?
 I might want to showcase my skills, knowledge, and experience involved in implementing the SHA-2 cipher. I feel like that work includes some of my better coding practices. While I am not too familiar with maven currently, my prior work with Java as well as research helped me properly implement a cipher that avoids collisions and provides security to Artemis Financial.
+===========================================================================================================================
+Third Repository for SNHU Class
+
+
+How can I ensure that my code, program, or software is functional and secure?
+I try to ensure my code, program, or software is function and secure, I focus on testing early and testing often. I try to test each block of code after I add it rather than doing the entire program and then finding out I am getting unexpected results. In doing so, I also have to reference the rubric often so that I am including only what is asked of me as well as ensures I am encluding everything that fits that request. For my programs to be functional, they must fulfill all of the functions that they are intended to.
+
+How do I interpret user needs and incorporate them into a program?
+Outside of my frequent referencing of the rubric which I use as the user needs for these assignments, I also ask the instructor for more clarification whenever I am ever unsure of the intentions based upon my interpretation. One of the most important aspects of programming is fulfilling the intended purpose of the code, and misinterpretations interfere with this.
+
+How do I approach designing software?
+When designing software, I prefer to come up with an efficient method and troubleshoot problems as I notice them. It is not until I notice a fatal flaw that reduces effectiveness that I will change the direction of the software design severely since due to time constraints I usually do not have the luxery of restarting to increase efficiency nor does the effeciency effect these smaller projects. It does bother me to use inefficient methods however, so I try to start with a more effecient base design in the future if I come across a less than effecient design but still effective in the process.
+
+
+
 
