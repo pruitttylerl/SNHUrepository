@@ -75,6 +75,44 @@ Outside of my frequent referencing of the rubric which I use as the user needs f
 
 How do I approach designing software?
 When designing software, I prefer to come up with an efficient method and troubleshoot problems as I notice them. It is not until I notice a fatal flaw that reduces effectiveness that I will change the direction of the software design severely since due to time constraints I usually do not have the luxery of restarting to increase efficiency nor does the effeciency effect these smaller projects. It does bother me to use inefficient methods however, so I try to start with a more effecient base design in the future if I come across a less than effecient design but still effective in the process.
+=========================================================================================================================================================
+Fourth Repository for SNHU Class
+
+
+
+How do I approach designing software?
+    I approach designing software with clarity in mind. One of the most important factors for progamming efficieny is to be able to not only read the code easily, but understand it's functions. With that in mind, I make sure that my methods are not convoluted or round-a-bout so that I do not make simple mistakes during development as well as so my teachers can understand the code while helping me or grading the assignment.
+
+What new design skills has your work on the project helped you to craft?
+My work on the project has helped me craft sectioning as a design skill. I often found myself trying to add more than one function at a time, or making progress on other parts of the code before finishing the one im on. I will now be more cautious about sectioning off work.
+
+What design process did you follow for your project work?
+I applied my typical approach for clarity in this project.
+
+How could tactics from your design approach be applied in future work?
+In future work, designing with clarity in mind will continue to be beneficial. Even if the clarity doesn't help me, other programmers will appreciate method design they can understand when they need to make changes to my program in the future.
+
+How do I approach developing programs?
+I approach developing programs by testing early and often. I ran the code as often as I could when I made changes in hopes to see the effects of as many individual lines of code as possible. Due to this I have caught many mistakes early in development.
+
+What new development strategies did you use while working on your 3D scene?
+While working on my 3D scene, I applied a new building block strategy where I add the new functionality I learned from other assignments into my 3D scene.
+
+How did iteration factor into your development?
+Iteration factored into my development because I had to build on my 3D scene in 'building blocks'. That meant my 3D scene underwent many interations over the course of development.
+
+How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
+The building block strategy is not one I have mastered yet, but has been a valuable tool which led me to the project's completion. 
+
+How can computer science help me in reaching my goals?
+My goal is to become a computer scientist in the future, which means computer science is necessary for reaching my goals.
+
+How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
+In future pathways, the knowledge and skills I gained will give me a better understanding of future content in my educational pathway that I wll reference in the future.
+       
+How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+While I am currently unsure of what specialization I want to partake in as a computer scientiest, I will be using the skills and knowledge from graphics and visualizations to decide on and wortk toward that specialization in the future.
+
 
 
 
