@@ -112,8 +112,17 @@ In future pathways, the knowledge and skills I gained will give me a better unde
        
 How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
 While I am currently unsure of what specialization I want to partake in as a computer scientiest, I will be using the skills and knowledge from graphics and visualizations to decide on and wortk toward that specialization in the future.
+========================================================================================================================
+Fourth Repository for SNHU Class
 
+How do you write programs that are maintainable, readable, and adaptable? How do you write programs that are maintainable, readable, and adaptable?
+I wrote programs that are maintainable, readable, and adaptable by using the best coding practices for the assignments, to include commenting and formatting the code with these traits in mind. Working this way provides me with easier troubleshooting capabilities as well as allowed me to understand what each section of code does and how so that modifications can be made with proper knowledge of what is being modified within the program. In the future, I could use this CRUD Python module as a base for more complex database management tools, especially using the mongoDB format! I could also use the algorithm as a reference in the future for similar problems.
 
+How do you approach a problem as a computer scientist? How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+I continue to approach developing programs by testing early and often. I ran the code as often as I could when I made changes in hopes to see the effects of as many individual lines of code as possible. Due to this I have caught many mistakes early in development. Approaching the Grizioso Salvare request was different from other assignments because I was working on two platforms at once. MongoDB is new to me whereas I have had some experience with python. Connecting the two was a completely new skill to learn and will certainly help me in the future!
+
+What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+Computer scientists Computer scientists design, develop, and analyze the software and hardware used to solve problems in all kinds of business, industry, scientific, and social contexts (Michigan Technological University, 12/18/2022). This matters and is important because I must be capable of understanding how the problems im solving can help me as well as the companies I work for in the future and should be able to apply these techniques to more effectively solve these problems. Effective problemsolving using past experiences can benefit the companies such as Grazioso Salvare because they will recive a finer-tuned product that can better serve the specific needs of the problem at hand.
 
 
 
